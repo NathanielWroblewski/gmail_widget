@@ -43,7 +43,7 @@ class Dashing.Gmail extends Dashing.Widget
   onData: (data) ->
 ```
 
-#####widgets/mailchimp/mailchimp.html
+#####widgets/gmail/gmail.html
 
 ```HTML
 <h1 class="title" data-bind="title"></h1>
@@ -73,7 +73,7 @@ class Dashing.Gmail extends Dashing.Widget
 <p class="updated-at" data-bind="updatedAtMessage"></p>
 ```
 
-#####widgets/mailchimp/mailchimp.scss
+#####widgets/gmail/gmail.scss
 
 ```SCSS
 $background-color:  #793A57;
@@ -126,7 +126,7 @@ $moreinfo-color:    rgba(255, 255, 255, 0.7);
 }
 ```
 
-#####jobs/mailchimp.rb
+#####jobs/gmail.rb
 
 ```rb
 require 'gmail'
