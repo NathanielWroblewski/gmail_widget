@@ -1,0 +1,19 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Turn-key","value":3},{"label":"Enterprise","value":2},{"label":"Web 2.0","value":2},{"label":"Synergy","value":1},{"label":"Exit strategy","value":1},{"label":"Streamlininess","value":1},{"label":"Leverage","value":3},{"label":"Pivoting","value":2}],"id":"buzzwords","updatedAt":1378145977}
+
+convergence: |+
+  data: {"points":[{"x":16,"y":12},{"x":17,"y":20},{"x":18,"y":23},{"x":19,"y":6},{"x":20,"y":20},{"x":21,"y":26},{"x":22,"y":46},{"x":23,"y":0},{"x":24,"y":43},{"x":25,"y":4}],"id":"convergence","updatedAt":1378145977}
+
+valuation: |+
+  data: {"current":26,"last":24,"id":"valuation","updatedAt":1378145975}
+
+karma: |+
+  data: {"current":112410,"last":153649,"id":"karma","updatedAt":1378145975}
+
+synergy: |+
+  data: {"value":50,"id":"synergy","updatedAt":1378145975}
+
+gmail: |+
+  data: {"gmail":{"from":"support@challengepost.com","subject":"No subject","message":"Welcome, nathanielwroblewski!\r\n\r\nThanks for creating a ChallengePost account. You signed up on The Dashing Widget Challenge (dashing.challengepost.com).\r\n\r\nWhat is Challen..."},"id":"gmail","updatedAt":1378145949}
+
